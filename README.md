@@ -1,5 +1,4 @@
-# Demo
+# LPPP 6500 Data Viz in R site
 
-This is the demonstration site of the [Mediumish GoHugo Theme](https://github.com/lgaida/mediumish-gohugo-theme)
-Run `hugo server -w -v`
+This is the repo for the website for the Fall 2021 LPPP 6500 Data Visualization in R course. 
 
