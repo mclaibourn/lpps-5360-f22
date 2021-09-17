@@ -32,7 +32,6 @@
 .Renviron
 
 # Blogdown
-blogdown/
 /public/
 /resources/
 

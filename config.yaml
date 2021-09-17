@@ -55,3 +55,8 @@ menu:
       name: Batten Policies
       url: /static/policy
       weight: 600
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
