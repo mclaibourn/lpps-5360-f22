@@ -51,7 +51,7 @@ Visualization principles; tidy data; visualizing counts, proportions, and distri
 
 *Problem set 2* (Due 10/26)
 
-*Resources*: viz galleries and inspiration
+*Resources*: [Chart Galleries, Visualization Inspiration, Data Art](../resources/)
 
 
 ## Week 3: October 26
@@ -70,7 +70,7 @@ Color in visualization; joining data; relationships and comparisons; R markdown 
 
 *Problem Set 3* (Due 11/2)
 
-*Resources*: color, rmarkdown
+*Resources*: [Color, R Markdown](../resources/)
 
 
 ## Week 4: November 2
@@ -92,7 +92,7 @@ Dates and time; space and maps
 
 *Problem Set 4* (Due 11/9)
 
-*Reosurces*: mapping
+*Reosurces*: [Mapping](../resources/)
 
 
 ## Week 5: November 9
@@ -109,7 +109,7 @@ Presentations! Enhancing and customizing visuals; interactivity and animation
 * Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 5](https://socviz.co/workgeoms.html#workgeoms), [Chapter 8](https://socviz.co/refineplots.html#refineplots)
 * David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
 
-*Resources*: file formats, hosting html, interactive tables
+*Resources*: [Odds and Ends](../resources/)
 
 
 ## Visualization Project
