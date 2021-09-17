@@ -1,0 +1,57 @@
+baseURL: "/"
+languageCode: en-us
+title: "Data Visualization in R"
+theme: mediumish-gohugo-theme
+summaryLength: 25
+copyright: Michele Claibourn - All rights reserved
+enableEmoji: yes
+publishDir: public
+params:
+  description: LPPP 6500 Fall 2021
+  author:
+    name: "Professor: Michele Claibourn"
+    description: "(Director of Equitable Analysis, UVA Equity Center)"
+    thumbnail: /images/webimage.png
+  index:
+    alertbar: no
+    mdtext: |
+      Tuesdays, October 5 - November 9, 7:00-9:30, Monroe Hall 122
+      
+      *Dr. Michele Claibourn (Director of Equitable Analysis, UVA Equity Center and Assistant Professor in Batten)*
+      
+      **Email: mclaibourn@virginia.edu  |  Office Hours: 3:30-5:00 Wednesdays, or by appt.  |  Office: Let's meet outside or on zoom**
+    picture: /images/webimage.png
+    subtitle: LPPP 6500 Fall 2021
+    title: Data Viz in R
+  logo: /images/webimage.png
+  social:
+    github: mclaibourn
+    twitter: mclaibourn
+    linkedin: mclaibourn
+    mail: mclaibourn@virginia.edu
+menu:
+  main:
+    - identifier: syllabus
+      name: Syllabus
+      url: /static/syllabus
+      weight: 100
+    - identifier: schedule
+      name: Schedule
+      url: /static/schedule
+      weight: 200
+    - identifier: assign
+      name: Assignments
+      url: /static/assign
+      weight: 300
+    - identifier: resources
+      name: Resources
+      url: /static/resources
+      weight: 400
+    - identifier: slack
+      name: Class Slack
+      url: https://lppp6500dataviz21.slack.com
+      weight: 500
+    - identifier: policy
+      name: Batten Policies
+      url: /static/policy
+      weight: 600

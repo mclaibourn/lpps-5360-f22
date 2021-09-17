@@ -1,0 +1,109 @@
+---
+title: "Resources"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Getting Started with R
+
+* [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
+
+## Finding Data
+
+* [Jenn Huck](https://data.library.virginia.edu/jennifer-huck/), UVA's Data Librarian and [the library's Data Resources pages](https://data.library.virginia.edu/datasources/)
+* [Find and Question Your Data](https://handsondataviz.org/find.html), from Jack Dougherty and Ilya Ilyankou, Hands-On Data Visualization.
+* [Data is Plural](https://www.data-is-plural.com/), Jeremy Singer-Vine's weekly newsletter of useful/curious datasets
+* [Charlottesville Open Data Portal](https://opendata.charlottesville.org/)
+* [US City Open Data Census](http://us-cities.survey.okfn.org/), the Sunlight Foundation and Code for America collects data on city open data portals throughout the U.S.
+* [Erik Gahner’s list of political science datasets](https://github.com/erikgahner/PolData), a huge list of useful datasets, divided by topic (governance, elections, policy, political elites, etc.).
+* [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
+* [Google Dataset Search](https://datasetsearch.research.google.com/), search for thousands of public data sets indexed by Google.
+* [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
+* So many sources...
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200"></div>
+
+## Chart Galleries
+
+* [The R Graph Gallery](https://www.r-graph-gallery.com/)
+* [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+* [The Data Viz Project](https://datavizproject.com/)
+* [From Data to Viz](https://www.data-to-viz.com/)
+* [The Chartmaker Diretory](http://chartmaker.visualisingdata.com/)
+
+
+## Visualization Inspiration
+
+* [The Pudding](https://pudding.cool/)
+* [Fivethirtyeight](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/)
+* [Visualizing Data](https://www.visualisingdata.com/), by Andy Kirk (check out the archive of [monthly/weekly best of lists](https://www.visualisingdata.com/2021/06/best-of-the-visualisation-web-april-2021/))
+* [Flowing Data](https://flowingdata.com/), by Nathan Yau
+* [Information is Beautiful](https://informationisbeautiful.net/), by David McCandless
+* [Seeing Data](http://seeingdata.org/), by a collection of researchers
+* [Info we Trust](https://infowetrust.com/essays), by RJ Andrews
+* [UW Interactive Data Lab](https://idl.cs.washington.edu/),
+* [PolicyViz](https://policyviz.com/), by Jonathan Schwabisch
+
+*Anti-Inspiration and Makeovers*
+
+* [WTF Visualizations](https://viz.wtf/)
+* [Junk Charts](https://junkcharts.typepad.com/), by Kaiser Fung
+* [Storytelling with Data](https://www.storytellingwithdata.com/makeovers), by multiple authors
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/1ylNn0FjtfzCHmxqky/giphy.gif" width="200"></div>
+
+## Data Art
+
+* [Hand Crafted](https://www.williamrchase.com/work/), by William R. Chase
+* [Data Paintings](http://giorasimchoni.com/2017/07/30/2017-07-30-data-paintings-the-kandinsky-package), by Giora Simchoni
+* [Dear Data](https://www.dear-data.com/theproject), by Giorgia Lupi and Stefanie Posavec
+* [Amplifying Data through Art](https://www.hakaimagazine.com/article-short/amplifying-data-through-art/), profile of artists who represent data
+
+## Color
+
+*R Color Resources*
+
+* [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+* [RColorBrewer](https://renenyffenegger.ch/notes/development/languages/R/packages/RColorBrewer/index) based on [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) by Cynthia Brewer
+* [Wes Anderson Palettes](https://github.com/karthik/wesanderson)
+* [Ghibli Palettes](https://github.com/ewenme/ghibli)
+* [Emil Hvitfeldt's GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
+* [R Color Cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+
+*Color Resources*
+
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Viz Palette](https://projects.susielu.com/viz-palette)
+* [Color Hunt](https://colorhunt.co/)
+* [Coolers](https://coolors.co/)
+* [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [I want hue](https://medialab.github.io/iwanthue/)
+* [Colorgorical](http://vrl.cs.brown.edu/color)
+* [Colorpicker](https://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062)
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/ieK8pZKcJMo0fWUXC2/giphy.gif" width="200"></div>
+
+
+## R Markdown
+
+* [R Markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+* [Markdown cheatsheet](https://packetlife.net/media/library/16/Markdown.pdf)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [RStudio' R Markdown Resources](https://rmarkdown.rstudio.com/)
+* [Cosma Shalizi's Using R Mardown for Class Reports](http://stat.cmu.edu/~cshalizi/rmarkdown/)
+* [10 Awesome R Markdown Tricks](https://towardsdatascience.com/ten-awesome-r-markdown-tricks-56ef6d41098)
+
+## Mapping
+
+
+## Odds and Ends
+
+* [File formats](https://clauswilke.com/dataviz/image-file-formats.html), by Claus Wilke
+* hosting html
+* interactive tables
+* [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/index.html#introduction), by Kieran Healy 

@@ -1,0 +1,56 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(emo)
+```
+
+## Overview and Goals
+Data is everywhere and as data becomes increasingly prevalent, so does interest in using data to improve decision making and policy. But data doesn’t speak for itself. One of the best ways to explore, understand, present and communicate about data is with visualization, mapping data values into quantifiable features to generate a graphic or chart.
+
+This short course is an initial introduction to the principles and tools of data visualization, with some side trips into data wrangling and processing because, unfortunately, most data in the world won’t be ready for visualization in its initial form.
+
+By the end of our five weeks, you will 
+
+* Know more about preparing data in R
+* Understand key principles of data and visual design
+* Create well-designed data visualizations with R
+* Communicate about visualizations in dynamic reports
+* Gain exposure to a variety of resources for continued learning
+
+## Requirements and Expectations
+**Problem Sets (40%)**: You’ll complete four problem sets, a set of tasks that includes a mix of exercises to practice applying the concepts and ideas from class and steps toward your visualization project.
+
+**Visualization Project, Presentation, and Posting (40%)**: The primary goal is for you to learn how to create your own data visualizations and communicate effectively about data. For the visualization project you will identify a data source and research question, conduct an exploratory analysis, clean and prep the data, create polished figures, and write a brief report. 
+
+**Collaborative Learning (20%)**: Learning new things is tough. Supportive colleagues can make it easier. For this reason, you will be evaluated based on the extent to which you help each other learn in our in-class practice and in our class slack space.
+
+## Materials
+All of the materials for our course are available for free. 
+
+* R is a free, open-source language (`r emo::ji("smile")`); RStudio is available for free (`r emo::ji("heart")`); R users are an amazing bunch and have generated a variety of free learning resources on which we’ll rely (`r emo::ji("tada")`). 
+  - [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
+* The only non-free resource is available to you as an e-book through the UVA Library (Yay for libraries!). 
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy.gif" width="150"></div>
+
+
+## Getting Help and the Class Slack
+
+Computers are stupid which can make programming hard. Any little error -- a small typo, a missed closing parentheses -- can cause inordinate pain (especially if you're tired). Some of that is unavaoidable when learning a new language. But don't beat your head against the wall when you get stuck. Seek help!
+
+There are many online resources to consult. Two of the most useful are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio).
+
+The UVA Library also an amazing team of consultants in the [StatLab](https://data.library.virginia.edu/statlab/). They've got online how-tos you might find useful (including this one on [how to ask reproducible questions on StackOverflow or the RStudio Community](https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/)) and you can email them at [statlab@virginia.edu](mailto:statlab@virginia.edu) to set up a consultation (you shouldn't use them for your problem sets, but they're a great resource if you're looking for help on the final visualization or after our class is done).
+
+Additionally, we have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. You're encouraged to do both and you should check the slack regularly. It will be our primary means of communication. If you have questions, someone else probably does too, so slack will help us share knowledge widely. You'll likely be able to answer others' questions, and you should! That's part of our collaborative learning.
+
+## Pandas
+
+Once you have read the syllabus and you have R, RStudio, and the tidyverse set up on your computer ([instructions for installing R, RStudio, and all the tidyverse packages](../install/)), email me a picture of a panda at [mclaibourn@virginia.edu](mailto:mclaibourn@virginia.edu) and I will invite you to the class slack!
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="200"></div>
+

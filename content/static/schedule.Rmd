@@ -1,0 +1,120 @@
+---
+title: "Schedule"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Week 1: October 5
+Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
+
+### Reading
+
+*Concepts* 
+
+* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 1](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch01.html#ch01)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 1](https://clauswilke.com/dataviz/introduction.html), [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html)
+
+*Practice*
+
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 2](https://socviz.co/gettingstarted.html#gettingstarted), [Chapter 3](https://socviz.co/makeplot.html#makeplot)
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 5](https://r4ds.had.co.nz/transform.html) 
+
+*Problem Set 1* (due 10/19
+
+*Resources*: [Finding Data](../resources/)
+
+
+## Fall Break: October 12
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/wOIhQl355kxTlgVfhI/giphy.gif" width="200"></div>
+
+
+## Week2 : October 19
+Visualization principles; tidy data; visualizing counts, proportions, and distributions; annotating and grouping
+
+### Reading
+
+*Concepts*
+
+* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 2](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch02.html#ch02)
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 1](https://socviz.co/lookatdata.html#lookatdata), [Chapter 4](https://socviz.co/groupfacettx.html#groupfacettx) 
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 5](https://clauswilke.com/dataviz/directory-of-visualizations.html)
+
+*Practice*
+
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 6](https://clauswilke.com/dataviz/visualizing-amounts.html), [Chapter 7](https://clauswilke.com/dataviz/histograms-density-plots.html), [Chapter 10](https://clauswilke.com/dataviz/visualizing-proportions.html), [Chapter 20](https://clauswilke.com/dataviz/redundant-coding.html), [Chapter 21](https://clauswilke.com/dataviz/multi-panel-figures.html) 
+  - Note, all of Wilke's code is on his [github page!](https://github.com/clauswilke/dataviz)
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 12](https://r4ds.had.co.nz/tidy-data.html)
+
+*Problem set 2* (Due 10/26)
+
+*Resources*: viz galleries and inspiration
+
+
+## Week 3: October 26
+Color in visualization; joining data; relationships and comparisons; R markdown and communication
+
+### Reading
+
+*Concepts*
+
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
+
+*Pratice*
+
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly.[Chapter 12](https://clauswilke.com/dataviz/visualizing-associations.html), [Chapter 16](https://clauswilke.com/dataviz/visualizing-uncertainty.html)
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 13](https://r4ds.had.co.nz/relational-data.html), [Chapter 27](https://r4ds.had.co.nz/r-markdown.html), [Chapter 29](https://r4ds.had.co.nz/r-markdown-formats.html)
+
+*Problem Set 3* (Due 11/2)
+
+*Resources*: color, rmarkdown
+
+
+## Week 4: November 2
+Dates and time; space and maps
+
+### Reading
+
+*Concepts*
+
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly.[Chapter 15](https://clauswilke.com/dataviz/geospatial-data.html)
+* Jason Forrest. 2018. [“W. E. B. Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900 (Part 1)”](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4). Nightingale, the Journal of the Data Visualization Society. (I'll share a pdf version of this in slack for those who can't view it online.)
+
+*Practice*
+
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 13](https://clauswilke.com/dataviz/time-series.html), [Chapter 14](https://clauswilke.com/dataviz/visualizing-trends.html)
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 7](https://socviz.co/maps.html#maps)
+* Carson Sievert. 2019. Interactive web-based data visualization with R, plotly, and shiny. CRC Press. [Chapter 2](https://plotly-r.com/overview.html), [Chapter 33](https://plotly-r.com/improving-ggplotly.html)
+* [Leaflet for R](https://rstudio.github.io/leaflet/): Introduction, The Map Widget, Basemaps, Markers, Popups and Labels, Colors, Legends, Choropleths   
+
+*Problem Set 4* (Due 11/9)
+
+*Reosurces*: mapping
+
+
+## Week 5: November 9
+Presentations! Enhancing and customizing visuals; interactivity and animation
+
+### Reading
+
+*Concepts*
+* Catherine D’Ignazio and Laura Klein. 2020. Data Feminism (open draft version). MIT Press. [Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 22](https://clauswilke.com/dataviz/figure-titles-captions.html), [Chapter 23](https://clauswilke.com/dataviz/balance-data-context.html), [Chapter 24](https://clauswilke.com/dataviz/small-axis-labels.html), [Chapter 25](https://clauswilke.com/dataviz/avoid-line-drawings.html), [Chapter 29](https://clauswilke.com/dataviz/telling-a-story.html)
+
+*Practice*
+
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 5](https://socviz.co/workgeoms.html#workgeoms), [Chapter 8](https://socviz.co/refineplots.html#refineplots)
+* David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
+
+*Resources*: file formats, hosting html, interactive tables
+
+
+## Visualization Project
+
+### Due 11/16
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="200"></div>
+
