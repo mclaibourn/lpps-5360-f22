@@ -5,7 +5,7 @@ theme: mediumish-gohugo-theme
 summaryLength: 25
 copyright: Michele Claibourn - All rights reserved
 enableEmoji: yes
-publishDir: public
+publishDir: docs
 params:
   description: LPPP 6500 Fall 2021
   author:
