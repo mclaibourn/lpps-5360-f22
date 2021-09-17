@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://dataviz21.netlify.app/"
 languageCode: en-us
 title: "Data Visualization in R"
 theme: mediumish-gohugo-theme
