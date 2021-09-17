@@ -24,9 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
 * [Google Dataset Search](https://datasetsearch.research.google.com/), search for thousands of public data sets indexed by Google.
 * [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
-* So many sources...
-
-<div style="text-align:center;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200"></div>
+* So many sources... <div style="text-align:right;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200" style="display: inline-block; margin: 0"></div>
 
 ## Chart Galleries
 
@@ -47,15 +45,13 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Seeing Data](http://seeingdata.org/), by a collection of researchers
 * [Info we Trust](https://infowetrust.com/essays), by RJ Andrews
 * [UW Interactive Data Lab](https://idl.cs.washington.edu/),
-* [PolicyViz](https://policyviz.com/), by Jonathan Schwabisch
-
-*Anti-Inspiration and Makeovers*
+* [PolicyViz](https://policyviz.com/), by Jonathan Schwabisch 
+<div style="text-align:center;"><img src="https://media.giphy.com/media/1ylNn0FjtfzCHmxqky/giphy.gif" width="200"></div>
 
 * [WTF Visualizations](https://viz.wtf/)
 * [Junk Charts](https://junkcharts.typepad.com/), by Kaiser Fung
-* [Storytelling with Data](https://www.storytellingwithdata.com/makeovers), by multiple authors
+* [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers), by multiple authors
 
-<div style="text-align:center;"><img src="https://media.giphy.com/media/1ylNn0FjtfzCHmxqky/giphy.gif" width="200"></div>
 
 ## Data Art
 
@@ -66,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Color
 
-*R Color Resources*
+*R Resources*
 
 * [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 * [RColorBrewer](https://renenyffenegger.ch/notes/development/languages/R/packages/RColorBrewer/index) based on [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) by Cynthia Brewer
@@ -75,7 +71,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Emil Hvitfeldt's GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 * [R Color Cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
 
-*Color Resources*
+<div style="text-align:left;"><img src="https://media.giphy.com/media/ieK8pZKcJMo0fWUXC2/giphy.gif" width="150"></div> 
+*General Resources*
 
 * [Adobe Color](https://color.adobe.com/create/color-wheel)
 * [Viz Palette](https://projects.susielu.com/viz-palette)
@@ -86,7 +83,6 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Colorgorical](http://vrl.cs.brown.edu/color)
 * [Colorpicker](https://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062)
 
-<div style="text-align:center;"><img src="https://media.giphy.com/media/ieK8pZKcJMo0fWUXC2/giphy.gif" width="200"></div>
 
 
 ## R Markdown
