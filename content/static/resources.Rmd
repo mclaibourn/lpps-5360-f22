@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Visualization Inspiration
 
 * [The Pudding](https://pudding.cool/)
-* [Fivethirtyeight](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/)
+* [Fivethirtyeight examples](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/) and their [data archive](https://data.fivethirtyeight.com/)
 * [Visualizing Data](https://www.visualisingdata.com/), by Andy Kirk (check out the archive of [monthly/weekly best of lists](https://www.visualisingdata.com/2021/06/best-of-the-visualisation-web-april-2021/))
 * [Flowing Data](https://flowingdata.com/), by Nathan Yau
 * [Information is Beautiful](https://informationisbeautiful.net/), by David McCandless
