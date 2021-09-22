@@ -23,7 +23,7 @@ params:
     picture: /images/webimage.png
     subtitle: LPPP 6500 Fall 2021
     title: Data Viz in R
-  logo: /images/webimage.png
+  logo: /images/webimage_small.png
   social:
     github: mclaibourn
     twitter: mclaibourn
