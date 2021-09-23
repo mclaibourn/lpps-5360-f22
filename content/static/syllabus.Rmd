@@ -50,7 +50,21 @@ Additionally, we have a class chatroom at Slack where anyone in the class can as
 
 ## Pandas
 
-Once you have read the syllabus and you have R, RStudio, and the tidyverse set up on your computer ([instructions for installing R, RStudio, and all the tidyverse packages](../install/)), email me a picture of a panda at [mclaibourn@virginia.edu](mailto:mclaibourn@virginia.edu) and I will invite you to the class slack!
+Once you have read the syllabus and have R, RStudio, and the tidyverse set up on your computer ([instructions for installing R, RStudio, and all the tidyverse packages](../install/)),[^1] email me at [mclaibourn@virginia.edu](mailto:mclaibourn@virginia.edu) with
+
+1. Whichever answers below describe your prior relationship with R: 
+    - It's one of my top 5 favorite letters
+    - I've admired it from afar
+    - I've run a few lines of code in R (e.g., provided by others and tweaked)
+    - I've written R code from scratch (e.g., without following a template)
+    - I'm comfortable doing basic data manipulation and analysis in R
+    - I'm comfortable doing advanced data manipulation and analysis in R
+    - I'm an R masteR and should probably be teaching this class
+
+2. A picture of a panda  
 
 <div style="text-align:center;"><img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="200"></div>
 
+And I will invite you to the class slack!
+
+[^1]: If you're struggling to get R, RStudio, and the tidyverse on your computer, you should email me and let me know.
