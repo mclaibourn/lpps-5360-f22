@@ -7,6 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Bring a laptop with R and RStudio installed!
+
 ## Week 1: October 5
 Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 

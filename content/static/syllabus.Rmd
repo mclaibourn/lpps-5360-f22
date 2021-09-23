@@ -42,7 +42,7 @@ All of the materials for our course are available for free.
 
 Computers are stupid which can make programming hard. Any little error -- a small typo, a missed closing parentheses -- can cause inordinate pain (especially if you're tired). Some of that is unavaoidable when learning a new language. But don't beat your head against the wall when you get stuck. Seek help!
 
-There are many online resources to consult. Two of the most useful are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio).
+There are many online resources. Two of the most useful are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio).
 
 The UVA Library also an amazing team of consultants in the [StatLab](https://data.library.virginia.edu/statlab/). They've got online how-tos you might find useful (including this one on [how to ask reproducible questions on StackOverflow or the RStudio Community](https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/)) and you can email them at [statlab@virginia.edu](mailto:statlab@virginia.edu) to set up a consultation (you shouldn't use them for your problem sets, but they're a great resource if you're looking for help on the final visualization or after our class is done).
 

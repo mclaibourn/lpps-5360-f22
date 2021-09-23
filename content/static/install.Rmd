@@ -22,7 +22,7 @@ First you need to install R itself (the engine).
   
 3. Double click on the downloaded file (check your Downloads folder). Click yes through all the prompts to install like any other program.
 
-If you already have R installed, check the version (you'll see the R version when you first start RStudio, or type `R.version.string` in the console -- it's worth making sure you're using a 4.x.x version. If yours is older, it's worth updating.
+If you already have R installed, and want to update it (aim for a 4.x.x version)[^1]
 
 * On Mac, you can simply download and install the newest version of R. When you restart RStudio, it will use the updated version of R.
 * On Windows, try using the package [installr](https://cran.r-project.org/web/packages/installr/index.html)
@@ -40,7 +40,7 @@ Next, you need to install RStudio, the nicer graphical user interface (GUI) for 
 
 4. Double click on the RStudio app to run it (check your applications folder or start menu).
 
-If you already have RStudio installed and want to update it
+If you already have RStudio installed and want to update it (aim for a 1.4.X version)
 
 * From within RStudio, go to Help > Check for Updates to install newer version of RStudio.
 
@@ -49,7 +49,7 @@ If you already have RStudio installed and want to update it
 R packages are easy to install with RStudio. 
 
 1. Select the packages panel  (in the lower right quandrant: Files/Plots/Packages/Help), then click on “Install.” (Alternatively, in the menu bar at the top, click "Tools" --> "Install Packages...") 
-2. Type the name of the package you want (`tidyverse`) to install in the pop-up window, and press Install.[^1]
+2. Type the name of the package you want (`tidyverse`) to install in the pop-up window, and press Install.[^2]
 
 If you already have tidverse installed and want to update it
 
@@ -62,4 +62,5 @@ You're awesome and ready to start!
 <div style="text-align:center;"><img src="https://media.giphy.com/media/35HTaxVJWzp2QOShct/giphy.gif" width="200"></div>
 
 
-[^1]: Alternatively, you could type `install.packages("tidyverse")` into the console and run it.
+[^1]: You'll see the R version you're using when you first start RStudio, or type `R.version.string` in the console.
+[^2]: Alternatively, you could type `install.packages("tidyverse")` into the console and run it.
