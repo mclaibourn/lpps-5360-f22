@@ -14,7 +14,8 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 
 *Concepts* 
 
-* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 1](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch01.html#ch01)
+* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 1](https://search.lib.virginia.edu/sources/uva_library/items/u8545323)
+
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 1](https://clauswilke.com/dataviz/introduction.html), [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html)
 
 *Practice*
@@ -39,7 +40,7 @@ Visualization principles; tidy data; visualizing counts, proportions, and distri
 
 *Concepts*
 
-* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 2](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch02.html#ch02)
+* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 2](https://search.lib.virginia.edu/sources/uva_library/items/u8545323)
 * Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 1](https://socviz.co/lookatdata.html#lookatdata), [Chapter 4](https://socviz.co/groupfacettx.html#groupfacettx) 
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 5](https://clauswilke.com/dataviz/directory-of-visualizations.html)
 
