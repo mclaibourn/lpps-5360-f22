@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
 
+
 ## Finding Data
 
 * [Jenn Huck](https://data.library.virginia.edu/jennifer-huck/), UVA's Data Librarian and [the library's Data Resources pages](https://data.library.virginia.edu/datasources/)
@@ -26,6 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
 * So many sources... <div style="text-align:right;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200" style="display: inline-block; margin: 0"></div>
 
+
 ## Chart Galleries
 
 * [The R Graph Gallery](https://www.r-graph-gallery.com/)
@@ -38,6 +40,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Visualization Inspiration
 
 * [The Pudding](https://pudding.cool/)
+* [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 * [Fivethirtyeight examples](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/) and their [data archive](https://data.fivethirtyeight.com/)
 * [Visualizing Data](https://www.visualisingdata.com/), by Andy Kirk (check out the archive of [monthly/weekly best of lists](https://www.visualisingdata.com/2021/06/best-of-the-visualisation-web-april-2021/))
 * [Flowing Data](https://flowingdata.com/), by Nathan Yau
@@ -59,6 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Data Paintings](http://giorasimchoni.com/2017/07/30/2017-07-30-data-paintings-the-kandinsky-package), by Giora Simchoni
 * [Dear Data](https://www.dear-data.com/theproject), by Giorgia Lupi and Stefanie Posavec
 * [Amplifying Data through Art](https://www.hakaimagazine.com/article-short/amplifying-data-through-art/), profile of artists who represent data
+
 
 ## Color
 
@@ -96,10 +100,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Mapping
 
+* [tiydcensus](https://walker-data.com/tidycensus/index.html) for pulling census data, and mapping with [ggplot::geom_sf](https://walker-data.com/tidycensus/articles/spatial-data.html)
+* More ggplot::geom_sf[examples](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html) and [tutorials](https://evamaerey.github.io/flipbooks/geom_sf/geom_sf.html#1)
+* Examples with [ggplot::geom_polygon and ggmaps](http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html)
+* Using [tmap](https://geocompr.robinlovelace.net/adv-map.html) and a great resource for using spatial data in R more generally
+* [Leaflet example](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/leaflet-r/)
+
 
 ## Odds and Ends
 
 * [File formats](https://clauswilke.com/dataviz/image-file-formats.html), by Claus Wilke
-* hosting html
-* interactive tables
+* [Sharing html on the web](https://bookdown.org/yihui/rmarkdown-cookbook/html-share.html), by Yihui Xie, Christophe Dervieux, Emily Riederer
+* [Interactive tables with reactable](https://glin.github.io/reactable/index.html), be sure to check out the Demos (or [recreating a table](https://towardsdatascience.com/recreate-publication-quality-interactive-tables-in-r-using-reactable-187407bc9702) from the Economist)
+* [Interactive tables with DT](https://rstudio.github.io/DT/)
+* [10+ Guidelines for Better Tables in R](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/)
+* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 * [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/index.html#introduction), by Kieran Healy 
+* [LearnR4Free](https://www.learnr4free.com/)
