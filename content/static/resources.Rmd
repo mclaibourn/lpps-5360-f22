@@ -18,13 +18,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Jenn Huck](https://data.library.virginia.edu/jennifer-huck/), UVA's Data Librarian and [the library's Data Resources pages](https://data.library.virginia.edu/datasources/)
 * [Find and Question Your Data](https://handsondataviz.org/find.html), from Jack Dougherty and Ilya Ilyankou, Hands-On Data Visualization.
-* [Data is Plural](https://www.data-is-plural.com/), Jeremy Singer-Vine's weekly newsletter of useful/curious datasets
-* [Charlottesville Open Data Portal](https://opendata.charlottesville.org/)
+* [Data.gov](https://www.data.gov/), home of the U.S. Government’s open data
+* [CDC Wonder](https://wonder.cdc.gov/), public health-related data
+* [FBI Crime data explorer](https://crime-data-explorer.app.cloud.gov/pages/home), for criminal, noncriminal, law enforcement data 
+* [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
+* [World Bank](https://data.worldbank.org/), open access to global development data
 * [US City Open Data Census](http://us-cities.survey.okfn.org/), the Sunlight Foundation and Code for America collects data on city open data portals throughout the U.S.
+* [Charlottesville Open Data Portal](https://opendata.charlottesville.org/)
+* [Data is Plural](https://www.data-is-plural.com/), Jeremy Singer-Vine's weekly newsletter of useful/curious datasets
 * [Erik Gahner’s list of political science datasets](https://github.com/erikgahner/PolData), a huge list of useful datasets, divided by topic (governance, elections, policy, political elites, etc.).
 * [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
 * [Google Dataset Search](https://datasetsearch.research.google.com/), search for thousands of public data sets indexed by Google.
-* [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
 * So many sources... <div style="text-align:right;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200" style="display: inline-block; margin: 0"></div>
 
 
@@ -34,6 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 * [The Data Viz Project](https://datavizproject.com/)
 * [From Data to Viz](https://www.data-to-viz.com/)
+* [Which Visualization?](http://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf)
 * [The Chartmaker Diretory](http://chartmaker.visualisingdata.com/)
 
 
@@ -45,9 +50,11 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Visualizing Data](https://www.visualisingdata.com/), by Andy Kirk (check out the archive of [monthly/weekly best of lists](https://www.visualisingdata.com/2021/06/best-of-the-visualisation-web-april-2021/))
 * [Flowing Data](https://flowingdata.com/), by Nathan Yau
 * [Information is Beautiful](https://informationisbeautiful.net/), by David McCandless
+* [Data Viz Weekly](https://www.anychart.com/blog/category/data-visualization-weekly/), weekly examples by AnyChart
 * [Seeing Data](http://seeingdata.org/), by a collection of researchers
 * [Info we Trust](https://infowetrust.com/essays), by RJ Andrews
-* [UW Interactive Data Lab](https://idl.cs.washington.edu/),
+* [UW Interactive Data Lab](https://idl.cs.washington.edu/), a computer science lab at University of Washington to enhance the understanding and communication of data 
+* [Visual Thinking Lab](https://visualthinking.psych.northwestern.edu/projects.html), a psychology lab at Northwestern studying visual thinking
 * [PolicyViz](https://policyviz.com/), by Jonathan Schwabisch 
 <div style="text-align:center;"><img src="https://media.giphy.com/media/1ylNn0FjtfzCHmxqky/giphy.gif" width="200"></div>
 
