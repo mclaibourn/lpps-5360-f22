@@ -3,6 +3,7 @@ title: "Resources"
 output: 
   html_document:
     toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Getting Started with R
 
 * [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
+* [The Tidyverse Style Guide](https://style.tidyverse.org/index.html), suggestions for good coding practices
 
 
 ## Finding Data
@@ -121,6 +123,6 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Interactive tables with reactable](https://glin.github.io/reactable/index.html), be sure to check out the Demos (or [recreating a table](https://towardsdatascience.com/recreate-publication-quality-interactive-tables-in-r-using-reactable-187407bc9702) from the Economist)
 * [Interactive tables with DT](https://rstudio.github.io/DT/)
 * [10+ Guidelines for Better Tables in R](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/)
-* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/), by Carson Sievert
 * [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/index.html#introduction), by Kieran Healy 
 * [LearnR4Free](https://www.learnr4free.com/)

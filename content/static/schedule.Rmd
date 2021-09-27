@@ -17,7 +17,6 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 *Concepts* 
 
 * Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 1](https://search.lib.virginia.edu/sources/uva_library/items/u8545323)
-
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 1](https://clauswilke.com/dataviz/introduction.html), [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html)
 
 *Practice*
@@ -104,6 +103,7 @@ Presentations! Enhancing and customizing visuals; interactivity and animation
 ### Reading
 
 *Concepts*
+
 * Catherine D’Ignazio and Laura Klein. 2020. Data Feminism (open draft version). MIT Press. [Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 22](https://clauswilke.com/dataviz/figure-titles-captions.html), [Chapter 23](https://clauswilke.com/dataviz/balance-data-context.html), [Chapter 24](https://clauswilke.com/dataviz/small-axis-labels.html), [Chapter 25](https://clauswilke.com/dataviz/avoid-line-drawings.html), [Chapter 29](https://clauswilke.com/dataviz/telling-a-story.html)
 
