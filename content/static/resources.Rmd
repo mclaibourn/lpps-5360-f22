@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
 * [The Tidyverse Style Guide](https://style.tidyverse.org/index.html), suggestions for good coding practices
+* [Stata to R::Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/master/stata2r.pdf)
 
 
 ## Finding Data
@@ -69,6 +70,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Hand Crafted](https://www.williamrchase.com/work/), by William R. Chase
 * [Data Paintings](http://giorasimchoni.com/2017/07/30/2017-07-30-data-paintings-the-kandinsky-package), by Giora Simchoni
+* [Data to Art](https://www.data-to-art.com/), curated by Yan Holtz
 * [Dear Data](https://www.dear-data.com/theproject), by Giorgia Lupi and Stefanie Posavec
 * [Amplifying Data through Art](https://www.hakaimagazine.com/article-short/amplifying-data-through-art/), profile of artists who represent data
 
