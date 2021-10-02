@@ -32,6 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Erik Gahner’s list of political science datasets](https://github.com/erikgahner/PolData), a huge list of useful datasets, divided by topic (governance, elections, policy, political elites, etc.).
 * [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
 * [Google Dataset Search](https://datasetsearch.research.google.com/), search for thousands of public data sets indexed by Google.
+* [Kaggle Datasets](https://www.kaggle.com/datasets), datasets hosted for various data science competitions over the years
 * So many sources... <div style="text-align:right;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200" style="display: inline-block; margin: 0"></div>
 
 

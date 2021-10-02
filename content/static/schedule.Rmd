@@ -24,10 +24,11 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 * Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 2](https://socviz.co/gettingstarted.html#gettingstarted), [Chapter 3](https://socviz.co/makeplot.html#makeplot)
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 5](https://r4ds.had.co.nz/transform.html) 
 
-*Resources*
+*Materials*
 
 * Slides
-* Problem Set 1 (due 10/19)
+* Practice script
+* [Problem Set 1](../assign/) (due 10/19)
 * [Finding Data](../resources/)
 
 
@@ -53,9 +54,12 @@ Visualization principles; tidy data; visualizing counts, proportions, and distri
   - Note, all of Wilke's code is on his [github page!](https://github.com/clauswilke/dataviz)
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 12](https://r4ds.had.co.nz/tidy-data.html)
 
-*Problem set 2* (Due 10/26)
+*Materials* 
 
-*Resources*: [Chart Galleries, Visualization Inspiration, Data Art](../resources/)
+* Slides
+* Practice script
+* [Problem Set 2](../assign/) (due 10/26)
+* [Chart Galleries, Visualization Inspiration, Data Art](../resources/)
 
 
 ## Week 3: October 26
@@ -72,9 +76,12 @@ Color in visualization; joining data; relationships and comparisons; R markdown 
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly.[Chapter 12](https://clauswilke.com/dataviz/visualizing-associations.html), [Chapter 16](https://clauswilke.com/dataviz/visualizing-uncertainty.html)
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 13](https://r4ds.had.co.nz/relational-data.html), [Chapter 27](https://r4ds.had.co.nz/r-markdown.html), [Chapter 29](https://r4ds.had.co.nz/r-markdown-formats.html)
 
-*Problem Set 3* (Due 11/2)
+*Materials* 
 
-*Resources*: [Color, R Markdown](../resources/)
+* Slides
+* Practice script
+* [Problem Set 3](../assign/) (due 11/2)
+* [Color, R Markdown](../resources/)
 
 
 ## Week 4: November 2
@@ -94,10 +101,12 @@ Dates and time; space and maps
 * Carson Sievert. 2019. Interactive web-based data visualization with R, plotly, and shiny. CRC Press. [Chapter 2](https://plotly-r.com/overview.html), [Chapter 33](https://plotly-r.com/improving-ggplotly.html)
 * [Leaflet for R](https://rstudio.github.io/leaflet/): Introduction, The Map Widget, Basemaps, Markers, Popups and Labels, Colors, Legends, Choropleths   
 
-*Problem Set 4* (Due 11/9)
+*Materials*
 
-*Reosurces*: [Mapping](../resources/)
-
+* Slides
+* Practice script
+* [Problem Set 4](../assign/) (due 11/9)
+* [Mapping](../resources/)
 
 ## Week 5: November 9
 Presentations! Enhancing and customizing visuals; interactivity and animation
@@ -114,7 +123,11 @@ Presentations! Enhancing and customizing visuals; interactivity and animation
 * Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 5](https://socviz.co/workgeoms.html#workgeoms), [Chapter 8](https://socviz.co/refineplots.html#refineplots)
 * David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
 
-*Resources*: [Odds and Ends](../resources/)
+*Materials*
+
+* Slides
+* Practice script
+* [Odds and Ends](../resources/)
 
 
 ## Visualization Project
