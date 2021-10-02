@@ -26,7 +26,7 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 
 *Resources*
 
-* [Slides](../slides/day1_slides/)
+* Slides
 * Problem Set 1 (due 10/19)
 * [Finding Data](../resources/)
 
