@@ -24,9 +24,11 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 * Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 2](https://socviz.co/gettingstarted.html#gettingstarted), [Chapter 3](https://socviz.co/makeplot.html#makeplot)
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 5](https://r4ds.had.co.nz/transform.html) 
 
-*Problem Set 1* (due 10/19)
+*Resources*
 
-*Resources*: [Finding Data](../resources/)
+* [Slides](../slides/day1_slides/)
+* Problem Set 1 (due 10/19)
+* [Finding Data](../resources/)
 
 
 ## Fall Break: October 12

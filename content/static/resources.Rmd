@@ -72,6 +72,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Data Paintings](http://giorasimchoni.com/2017/07/30/2017-07-30-data-paintings-the-kandinsky-package), by Giora Simchoni
 * [Data to Art](https://www.data-to-art.com/), curated by Yan Holtz
 * [Dear Data](https://www.dear-data.com/theproject), by Giorgia Lupi and Stefanie Posavec
+* [Martin Wattenberg](http://www.bewitched.com/art.html) and [Fernanda Viegas](http://www.fernandaviegas.com/) collaborations (science and art)
 * [Amplifying Data through Art](https://www.hakaimagazine.com/article-short/amplifying-data-through-art/), profile of artists who represent data
 
 
