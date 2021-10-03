@@ -27,7 +27,7 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 *Materials*
 
 * Slides
-* [Practice script and data](../static/materials/week1_materials.zip)
+* [Practice script and data](../materials/week1_materials.zip)
 * [Problem Set 1](../assign/) (due 10/19)
 * [Finding Data](../resources/)
 
