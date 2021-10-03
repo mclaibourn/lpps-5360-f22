@@ -23,7 +23,6 @@ For the first week, create a script that
 
 1. Reads in the data
 2. Examines the data using some of the functions in PS 1, Question 2
-3. Via comments (#), notes the likely key variables of interest
-4. Via comments, notes any initial issues you see with the data -- formats you'll need to fix, variables you'll need to derive, possible limitations. 
+3. Via comments (#), note the likely key variables of interest
 
 Your comments don't need to foreshadow everything; just start getting familiar with the data set and be thinking about some possible questions you might ask of it.
