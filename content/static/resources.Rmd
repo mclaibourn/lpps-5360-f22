@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
 * [The Tidyverse Style Guide](https://style.tidyverse.org/index.html), suggestions for good coding practices
-* [Stata to R::Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/master/stata2r.pdf)
+* [Stata to R::Cheat Sheet](https://mentalbreaks.rbind.io/posts/stata-to-r/)
 
 
 ## Finding Data
