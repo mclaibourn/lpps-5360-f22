@@ -26,3 +26,10 @@ For the first week, create a script that
 3. Via comments (#), note the likely key variables of interest
 
 Your comments don't need to foreshadow everything; just start getting familiar with the data set and be thinking about some possible questions you might ask of it.
+
+[xkcd](https://xkcd.com/388/) inspiration
+
+```{r xkcd1, echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("https://imgs.xkcd.com/comics/fuck_grapefruit.png")
+#getXKCD(388)
+```
