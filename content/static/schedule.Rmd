@@ -71,7 +71,7 @@ Color in visualization; joining data; relationships and comparisons; R markdown 
 
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
 
-*Pratice*
+*Practice*
 
 * Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly.[Chapter 12](https://clauswilke.com/dataviz/visualizing-associations.html), [Chapter 16](https://clauswilke.com/dataviz/visualizing-uncertainty.html)
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 13](https://r4ds.had.co.nz/relational-data.html), [Chapter 27](https://r4ds.had.co.nz/r-markdown.html), [Chapter 29](https://r4ds.had.co.nz/r-markdown-formats.html)

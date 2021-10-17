@@ -62,6 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [PolicyViz](https://policyviz.com/), by Jonathan Schwabisch 
 <div style="text-align:center;"><img src="https://media.giphy.com/media/1ylNn0FjtfzCHmxqky/giphy.gif" width="200"></div>
 
+### Anti-Inspiration?
 * [WTF Visualizations](https://viz.wtf/)
 * [Junk Charts](https://junkcharts.typepad.com/), by Kaiser Fung
 * [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers), by multiple authors
@@ -75,6 +76,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Dear Data](https://www.dear-data.com/theproject), by Giorgia Lupi and Stefanie Posavec
 * [Martin Wattenberg](http://www.bewitched.com/art.html) and [Fernanda Viegas](http://www.fernandaviegas.com/) collaborations (science and art)
 * [Amplifying Data through Art](https://www.hakaimagazine.com/article-short/amplifying-data-through-art/), profile of artists who represent data
+* [Accidental aRt](https://twitter.com/accidental__aRt), twitter account of data viz errors that might be art
+* [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz), an exhibit at Stanford Libraries
+
 
 
 ## Color
@@ -122,11 +126,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Odds and Ends
 
-* [File formats](https://clauswilke.com/dataviz/image-file-formats.html), by Claus Wilke
+* [The Design of Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/), some theory
+* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/), by Carson Sievert
 * [Sharing html on the web](https://bookdown.org/yihui/rmarkdown-cookbook/html-share.html), by Yihui Xie, Christophe Dervieux, Emily Riederer
 * [Interactive tables with reactable](https://glin.github.io/reactable/index.html), be sure to check out the Demos (or [recreating a table](https://towardsdatascience.com/recreate-publication-quality-interactive-tables-in-r-using-reactable-187407bc9702) from the Economist)
 * [Interactive tables with DT](https://rstudio.github.io/DT/)
 * [10+ Guidelines for Better Tables in R](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/)
-* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/), by Carson Sievert
+* [File formats](https://clauswilke.com/dataviz/image-file-formats.html), by Claus Wilke
 * [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/index.html#introduction), by Kieran Healy 
 * [LearnR4Free](https://www.learnr4free.com/)
