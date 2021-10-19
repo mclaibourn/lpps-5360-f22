@@ -56,8 +56,8 @@ Visualization principles; tidy data; visualizing counts, proportions, and distri
 
 *Materials* 
 
-* Slides
-* Practice script
+* [Slides](../slides/day2/)
+* [Practice script](../materials/week2_script.R)
 * [Problem Set 2](../assign/) (due 10/26)
 * [Chart Galleries, Visualization Inspiration, Data Art](../resources/)
 
