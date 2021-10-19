@@ -38,7 +38,7 @@ Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 
 
 ## Week2 : October 19
-Visualization principles; tidy data; visualizing counts, proportions, and distributions; annotating and grouping
+Visualization principles; visualizing counts, proportions, and distributions
 
 ### Reading
 
@@ -63,7 +63,7 @@ Visualization principles; tidy data; visualizing counts, proportions, and distri
 
 
 ## Week 3: October 26
-Color in visualization; joining data; relationships and comparisons; R markdown and communication
+Using color; tidy data; joining data; visualizing relationships; R markdown and communication; annotating and combining figures
 
 ### Reading
 

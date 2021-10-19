@@ -25,7 +25,7 @@ Last week you identified a data set to work with for the final project and began
 Share this new script with me on slack. It should be written so that I can add it to the project folder you shared with me last week and run it.
 
 ### Bad Data Visualizations
-Thinking about Cairo's criteria for good data visualization (truthful, functional, beautiful, insightful, enlightenting) and/or Healey's negative criteria (aesthetics/bad taste, substantive/bad data, perception/bad perception), **find a data visualization you think is especially "bad"** and post it to the slack channel "goodviz-badviz" with a brief explanation of how you think it serves as an example of a poor data visualization (this is a chance to learn from one another).
+Thinking about Cairo's criteria for good data visualization (truthful, functional, beautiful, insightful, enlightenting) and/or Healey's negative criteria (aesthetics/bad taste, substantive/bad data, perception/bad perception), **find a data visualization you think is especially "bad"** and post it to the slack channel "goodviz-badviz" with a brief explanation of how you think it serves as an example of a poor data visualization (this is a chance to learn from one another). The [Visualization Inspiration or Anti-Inspiration](../resources/) links on the resource page might help.
 
 [xkcd](https://xkcd.com/930/) inspiration
 
