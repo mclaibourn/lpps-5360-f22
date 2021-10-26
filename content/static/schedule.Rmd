@@ -78,8 +78,8 @@ Using color; tidy data; joining data; visualizing relationships; R markdown and 
 
 *Materials* 
 
-* Slides
-* Practice script
+* [Slides](../slides/day3/)
+* [Practice script](../materials/week3_script.R)
 * [Problem Set 3](../assign/) (due 11/2)
 * [Color, R Markdown](../resources/)
 
