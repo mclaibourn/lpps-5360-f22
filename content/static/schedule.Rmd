@@ -108,8 +108,8 @@ Space and maps
 
 *Materials*
 
-* Slides
-* Practice script
+* [Slides](../slides/day4/)
+* [Practice script](../materials/week4_script.R)
 * [Problem Set 4](../assign/) (due 11/9)
 * [Mapping](../resources/)
 

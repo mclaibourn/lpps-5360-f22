@@ -7,6 +7,42 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Problem Set 4
+
+Due 11/9, by the start of class.
+
+### R practice: World Development Indicators, take 2
+This week, you'll keep working with the World Development Indicators from last week, starting your own R markdown file to complete the following steps.
+
+1. Load the wdi data from last week and the world spatial data from `rnaturalearth` (like we did in class)
+2. For the world data, remove Antarctica (remember, you can use tidyverse functions on a SF object). Antarctica has `iso_a2 == "AQ"`
+3. Compare the country codes across the two world and wdi data sets to see if there are codes in only wdi or only world. First, see if there are values only in wdi like so
+
+```{r, eval = FALSE}
+wdi %>% 
+  group_by(iso2c) %>% # wdi has multiple obs for each country, we only want one
+  slice(1) %>% 
+  select(iso2c, country) %>% # to print just the codes and country names
+  filter(!(iso2c %in% world2$iso_a2)) # are iso2c values found in the world data
+```
+
+Then check if there are values only in world.
+
+4. (Left) join one year of the wdi data to world (pick a year).
+5. Create a choropleth map for the world using a variable of your choice from the wdi data (using the default projection, World Geodetic System 1984)
+6. Create the same map using a different projection
+
+### Your Data
+Draft of your final project to present next week!
+
+
+[xkcd](https://xkcd.com/798/) inspiration
+
+```{r xkcd4, echo = FALSE, out.width = "70%", fig.align = "center"}
+knitr::include_graphics("https://imgs.xkcd.com/comics/map_projections.png")
+#getXKCD(977)
+```
+
 ## Problem Set 3
 
 Due 11/2, by the start of class.
