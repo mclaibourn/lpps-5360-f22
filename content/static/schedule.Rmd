@@ -110,6 +110,7 @@ Space and maps
 
 * [Slides](../slides/day4/)
 * [Practice script](../materials/week4_script.R)
+* [Problem Set 3 R Markdown](../materials/ps3_complete.txt)
 * [Problem Set 4](../assign/) (due 11/9)
 * [Mapping](../resources/)
 
