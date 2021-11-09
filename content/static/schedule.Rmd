@@ -135,8 +135,9 @@ Presentations! Catching up; Enhancing and customizing visuals
 
 *Materials*
 
-* Slides
-* Practice script
+* [Slides](../slides/day5/)
+* [Practice script](../materials/week5.R)
+* [Rendered Version](../materials/week5_markdown/)
 * [Odds and Ends](../resources/)
 
 
