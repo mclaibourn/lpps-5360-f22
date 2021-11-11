@@ -138,6 +138,7 @@ Presentations! Catching up; Enhancing and customizing visuals
 * [Slides](../slides/day5/)
 * [Practice script](../materials/week5.R)
 * [Rendered Version](../materials/week5_markdown/)
+* [Supplemental Examples](../materials/supp_examples.R)
 * [Odds and Ends](../resources/)
 
 
