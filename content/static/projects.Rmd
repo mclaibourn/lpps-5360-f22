@@ -13,5 +13,5 @@ A gallery of the final visualization projects created by the class!
 * [Built Environment Equity](../final/erzen_finalproject/), David Erzen
 * [Analyzing Solar Energy in the United States](../final/melly_finalproject/), Erin Melly
 * [Exploring Gender, Education, and Agriculture in Honduras](../final/mulder_finalproject/), Katie Mulder
-* [Bird Diets](../final/padhi_finalproject/), Lizzy Padhi
+* Bird Diets (too large to upload), Lizzy Padhi
 * [Milk with Dignity Hotline](../final/stephens_finalproject/), Maya Stephens
