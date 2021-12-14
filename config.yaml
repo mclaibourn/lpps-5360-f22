@@ -43,18 +43,22 @@ menu:
       name: Assignments
       url: /static/assign
       weight: 300
+    - identifier: projects
+      name: Final Projects
+      url: /static/projects
+      weight: 400
     - identifier: resources
       name: Resources
       url: /static/resources
-      weight: 400
+      weight: 500
     - identifier: slack
       name: Class Slack
       url: https://lppp6500dataviz21.slack.com
-      weight: 500
+      weight: 600
     - identifier: policy
       name: Batten Policies
       url: /static/policy
-      weight: 600
+      weight: 700
 
 markup:
   goldmark:
