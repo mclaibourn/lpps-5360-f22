@@ -1,29 +1,28 @@
-baseURL: "https://dataviz21.netlify.app/"
+baseURL: "https://lpps5360.netlify.app/"
 languageCode: en-us
-title: "Data Visualization in R"
+title: LPPS 5360
 theme: mediumish-gohugo-theme
 summaryLength: 25
-copyright: Michele Claibourn - All rights reserved
+copyright: 
 enableEmoji: yes
 publishDir: docs
 params:
-  description: LPPP 6500 Fall 2021
+  description: Fall 2022
   author:
     name: "Professor: Michele Claibourn"
     description: "(Director of Equitable Analysis, UVA Equity Center)"
-    thumbnail: /images/webimage.png
+    thumbnail: /images/imagining.png
   index:
     alertbar: no
     mdtext: |
-      Tuesdays, October 5 - November 9
       
       *Dr. Michele Claibourn (Director of Equitable Analysis, UVA Equity Center and Assistant Professor in Batten)*
       
-      **Email: mclaibourn@virginia.edu  |  Office Hours: 3:30-5:00 Wednesdays, or by appt.  |  Office: Let's meet outside or on zoom**
-    picture: /images/webimage.png
-    subtitle: LPPP 6500 Fall 2021
-    title: Data Viz in R
-  logo: /images/webimage_small.png
+      **Email: mclaibourn@virginia.edu  |  Office Hours: TBD, or by appt.  |  Office: Let's meet outside or on zoom**
+    picture: /images/imagining.png
+    subtitle: Fall 2022, Tuesdays, 3:30-6:00
+    title: LPPS 5360
+  logo: /images/imagining_small.png
   social:
     github: mclaibourn
     twitter: mclaibourn
@@ -39,26 +38,22 @@ menu:
       name: Schedule
       url: /static/schedule
       weight: 200
-    - identifier: assign
-      name: Assignments
-      url: /static/assign
-      weight: 300
     - identifier: projects
-      name: Final Projects
+      name: Projects
       url: /static/projects
+      weight: 300
+    - identifier: perusall
+      name: Perusall
+      url: https://perusall.com/
       weight: 400
-    - identifier: resources
-      name: Resources
-      url: /static/resources
+    - identifier: collab
+      name: Class Collab
+      url: https://collab.its.virginia.edu/portal/site/e47df25c-4101-4391-ada9-3384695466da
       weight: 500
-    - identifier: slack
-      name: Class Slack
-      url: https://lppp6500dataviz21.slack.com
-      weight: 600
     - identifier: policy
       name: Batten Policies
       url: /static/policy
-      weight: 700
+      weight: 600
 
 markup:
   goldmark:
