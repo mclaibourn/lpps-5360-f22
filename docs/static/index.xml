@@ -1,69 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statics on Imagining Equitable Policy</title>
-    <link>https://lpps5360.netlify.app/static/</link>
-    <description>Recent content in Statics on Imagining Equitable Policy</description>
+    <title>Statics on LPPS 5360</title>
+    <link>https://golden-semolina-caf508.netlify.app/static/</link>
+    <description>Recent content in Statics on LPPS 5360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Michele Claibourn - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
     
-	<atom:link href="https://lpps5360.netlify.app/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://golden-semolina-caf508.netlify.app/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Policies</title>
-      <link>https://lpps5360.netlify.app/static/policy/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/policy/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/policy/</guid>
+      <guid>https://golden-semolina-caf508.netlify.app/static/policy/</guid>
       <description>Wellbeing and Duty to Care Statement If you are feeling overwhelmed, stressed, or isolated, several individuals at Batten are ready and want to help. Both Jill Rockwell, Assistant Dean for Student Services, and Amanda Crombie, Assistant Dean for Academic Programs, are available to support all Batten Students.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lpps5360.netlify.app/static/inclass/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/inclass/</guid>
+      <guid>https://golden-semolina-caf508.netlify.app/static/inclass/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lpps5360.netlify.app/static/materials/week5_markdown/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/materials/week5_markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/materials/week5_markdown/</guid>
+      <guid>https://golden-semolina-caf508.netlify.app/static/materials/week5_markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://lpps5360.netlify.app/static/projects/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/projects/</guid>
-      <description>We’ll share our work on the course webpage as a way of contributing to the emerging efforts at promoting equity through policy.</description>
+      <guid>https://golden-semolina-caf508.netlify.app/static/projects/</guid>
+      <description>We&amp;rsquo;ll share our work on the course webpage as a way of contributing to the emerging efforts at promoting equity through policy.</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>https://lpps5360.netlify.app/static/schedule/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/schedule/</guid>
+      <guid>https://golden-semolina-caf508.netlify.app/static/schedule/</guid>
       <description>All materials are available to us for free. Articles and book chapters will be made available on Perusall.
-Tuesday, 8/23: Why Imagining? What is Equity?</description>
+8/23: Why Imagining? What is Equity?  Octavia Butler.</description>
     </item>
     
     <item>
       <title>Syllabus</title>
-      <link>https://lpps5360.netlify.app/static/syllabus/</link>
+      <link>https://golden-semolina-caf508.netlify.app/static/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lpps5360.netlify.app/static/syllabus/</guid>
+      <guid>https://golden-semolina-caf508.netlify.app/static/syllabus/</guid>
       <description>Overview and Goals The Biden administration’s Executive Order 13895 calls on the Federal Government to advance equity in order “to provide everyone with the opportunity to reach their full potential.</description>
     </item>
     
