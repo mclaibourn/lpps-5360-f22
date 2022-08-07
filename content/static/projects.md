@@ -1,10 +1,5 @@
 ---
-title: "Projects"
-output: html_document
+title: Projects
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 We'll share our work on the course webpage as a way of contributing to the emerging efforts at promoting equity through policy.
