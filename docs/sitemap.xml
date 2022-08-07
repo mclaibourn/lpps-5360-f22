@@ -113,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://golden-semolina-caf508.netlify.app/static/inclass/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://golden-semolina-caf508.netlify.app/static/materials/week5_markdown/</loc>
     <priority>0</priority>
   </url>
