@@ -9,7 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 All materials are available to us for free. Articles and book chapters will be made available on Perusall.
 
-![](https://nam.edu/wp-content/uploads/2018/05/Equality-Equity-Liberation-e1557145058986.jpg){width="200" style="display: block; margin: 0 auto"}
 
 ## Tuesday, 8/23: Why Imagining? What is Equity? 
 
@@ -41,8 +40,7 @@ All materials are available to us for free. Articles and book chapters will be m
 
 *In class: Framing exercise*
 
-<div style="text-align:center;"><img src="https://media.giphy.com/media/dVd8zPWXLz97fV41zf/giphy.gif" width="200"></div>
-
+![](https://nam.edu/wp-content/uploads/2018/05/Equality-Equity-Liberation-e1557145058986.jpg){width="300" style="display: block; margin: 0 auto"}
 
 ## Tuesday, 9/20: Equity Assessment: Tools and Measurement
 
@@ -74,6 +72,8 @@ All materials are available to us for free. Articles and book chapters will be m
 * Add reading
 
 *In class: Team peer feedback*
+
+<div style="text-align:center;"><img src="https://media.giphy.com/media/dVd8zPWXLz97fV41zf/giphy.gif" width="200"></div>
 
 ## Tuesday, 10/18: Policy Tools
 
@@ -129,6 +129,6 @@ All materials are available to us for free. Articles and book chapters will be m
 *In class: Share Policy Communication (draft)*
 *Due: Policy Communication, Tuesday, 12/13*
 
-
+<div style="text-align:center;"><img src="https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif" width="200"></div>
 
 
