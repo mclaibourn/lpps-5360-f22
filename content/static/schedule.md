@@ -34,8 +34,9 @@ All materials are available to us for free. Articles and book chapters will be m
 * Ursula K. Le Guin. 1973/1975. “[The Ones Who Walk Away from Omelas.](https://libcom.org/files/ursula-k-le-guin-the-ones-who-walk-away-from-omelas.pdf)” *The Winds Twelve Quarters.* Harper & Row.
 
 *In class: Framing exercise*
-
-![](https://nam.edu/wp-content/uploads/2018/05/Equality-Equity-Liberation-e1557145058986.jpg){width="300" style="display: block; margin: 0 auto"}
+<p class="aligncenter">
+<img src="https://nam.edu/wp-content/uploads/2018/05/Equality-Equity-Liberation-e1557145058986.jpg" alt="equity-equality" width="300"/>
+</p>
 
 ## 9/20: Equity Assessment: Tools and Measurement
 
@@ -68,7 +69,9 @@ All materials are available to us for free. Articles and book chapters will be m
 
 *In class: Team peer feedback*
 
-<div style="text-align:center;"><img src="https://media.giphy.com/media/dVd8zPWXLz97fV41zf/giphy.gif" width="200"></div>
+<p class="aligncenter">
+<img src="https://media.giphy.com/media/dVd8zPWXLz97fV41zf/giphy.gif" width="200">
+</p>
 
 ## 10/18: Policy Tools
 
@@ -124,4 +127,6 @@ All materials are available to us for free. Articles and book chapters will be m
 *In class: Share Policy Communication (draft)*
 *Due: Policy Communication, Tuesday, 12/13*
 
-<div style="text-align:center;"><img src="https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif" width="200"></div>
+<p class="aligncenter">
+<img src="https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif" width="300">
+</p>

@@ -16,9 +16,12 @@ A few of our learning goals:
 * Evaluate policy alternatives with respect to equity and additional principles;
 * Develop deeper understanding of a selected policy area.
 
-![](https://64.media.tumblr.com/54215acf016f25360202fe8a073520c5/30c6cee1c9ef2c94-d8/s1280x1920/ceae6cbf38b1cc2a9ffe74f099d1d104c4f2c67c.png){width="300" style="display: block; margin: 0 auto"}
+<p class="aligncenter">
+<img src="https://64.media.tumblr.com/54215acf016f25360202fe8a073520c5/30c6cee1c9ef2c94-d8/s1280x1920/ceae6cbf38b1cc2a9ffe74f099d1d104c4f2c67c.png" alt="equity-equality" width="300"/>
+</p>
 
 ## Evaluation of Our Work
+
 
 ### Contributions to Material/Class (45%)
 
@@ -84,5 +87,7 @@ Present an abbreviated version of the key information in your policy assessment 
 One starting point for us will be the assumption that equitable policy centers people, that policies are oriented toward solving the problems people are facing or in creating conditions for people to thrive. Thus, our applied work will begin by centering people. The distinction requires a mental shift away from abstractions – e.g., homelessness -- to concrete experiences of people – e.g., the obstacles faced by those who live without stable housing. The selected population need not be the only group considered in the policy briefs – ideally, policy alternatives will improve conditions for many – but will serve as an anchoring point.
 
 Once a population is centered, you’ll select a state or locality to focus on. Given the current trend toward more state power and state-centered policy, the policy focus for the briefs will emphasize problems, people, and policies on the state or local level. The ultimate policy focus might be generalizable across states, cities, and counties, but to keep things concrete, your briefs will use a selected place to research and describe.
+<p class="aligncenter">
+    <img src="https://region2phtc.org/wp-content/uploads/2019/02/blogimage-large34.jpg" alt="equity-equality" width="200"/>
+</p>
 
-![](https://region2phtc.org/wp-content/uploads/2019/02/blogimage-large34.jpg){width="300" style="display: block; margin: 0 auto"}
