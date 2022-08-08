@@ -22,7 +22,7 @@ All materials are available to us for free. Articles and book chapters will be m
 
 * Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach
 * Daniel Greene. 2021. *The Promise of Access: Technology, Inequality, and the Political Economy of Hope.* Chapter 1.
-* Add reading
+* B. Guy Peters. 2018. *Policy Problems and Policy Design.* Elgar. Chapter 2: The Problem of Policy Problems.
 
 *In class: Problem representation exercise*
 *Due: Individual Equity Action Plan coding* 
@@ -65,7 +65,7 @@ All materials are available to us for free. Articles and book chapters will be m
 
 * Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. "[The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System.](https://doi.org/10.1177/0963721418763931)" *Current Directions in Psychological Science* 27: 183–187.
 * Allison L. Skinner-Dorkenoo, Apoorva Sarmal, Kasheena G. Rogbeer, Chloe J. Andr ́e, Bhumi Patea, Leah Cha. 2022. “[Highlighting COVID-19 Racial Disparities Can Reduce Support for Safety Precautions among White U.S. Residents.](https://www.sciencedirect.com/science/article/pii/S027795362200257X?via%3Dihub)” *Social Science & Medicine* 301: 1-8.
-* Add reading
+* Miles Corak. 2016. "['Inequality is the root of social evil,' or Maybe Not? Two Stories about Inequality and Public Policy.](https://www.utpjournals.press/doi/full/10.3138/cpp.2016-056)" *Canadian Public Policy*  42: 367–414.
 
 *In class: Team peer feedback*
 
@@ -76,7 +76,7 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 10/18: Policy Tools
 
 * Lester Salamon. 2002. *The New Governance and the Tools of Public Action: An Introduction.* Chapter 1
-* Add reading
+* Michael Howlett, Ishani Mukherjee, and Jun Jie Woo. 2015. "[From Tools to Toolkits in Policy Design Studies: The New Policy Design Orientation Toward Policy Formulation Research.](https://www.sfu.ca/~howlett/documents/s9.pdf)" *Policy & Politics* 43: 291–311.
 
 *In class: Team presentations*
 *Due: Policy Assessment Brief, Friday, 10/21*
