@@ -114,7 +114,6 @@ All materials are available to us for free. Articles and book chapters will be m
 
 * Jerusalem Demsas. 2022. “[Community Input is Bad, Actually.](https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/)” *The Atlantic.*  
 * Fung, Archon, Hollie Russon Gilman, and Mark Schmitt. 2022. “[Strengthening Models of Civic Engagement: Community-Informed Approaches to Inclusive and Equitable Decision-Making.](https://ash.harvard.edu/publications/strengthening-models-civic-engagement-community-informed-approaches-inclusive-and)” New America and Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
-* Add reading 
 
 *In class: Team presentations*
 *Due: Policy Recommendation Brief, Friday, 12/2*
