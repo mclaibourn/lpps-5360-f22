@@ -14,7 +14,7 @@ All materials are available to us for free. Articles and book chapters will be m
 
 * Anna Brand. 2015. “[The Politics of Defining and Building Equity in the Twenty-First Century.](https://journals.sagepub.com/doi/abs/10.1177/0739456X15585001?casa_token=emQ3UuijnUYAAAAA%3A6b4kJzhRQbSuQkvzacJws6t2RsHY1bQ9KROjw8meS_BincQ0QYFIvoVnM6Azv5QE3C2n3fFS6hgt&journalCode=jpea)” *Journal of Planning Education and Research* 35: 249-264.
 * Melissa Leach, Belinda Reyers, Xuemei Bai, Eduardo S. Brondizio, Christina Cook, Sandra Díaz, Giovana Espindola, Michelle Scobie, Mark Stafford-Smith and Suneetha M Subramanian. 2018. “[Equity and Sustainability in the Anthropocene: A Social–Ecological Systems Perspective on Their Intertwined Futures.](https://www.cambridge.org/core/journals/global-sustainability/article/equity-and-sustainability-in-the-anthropocene-a-socialecological-systems-perspective-on-their-intertwined-futures/F6DCBE05CA3F6820A10C0DF193BB29E7)” *Global Sustainability* 1: 1-13.
-* Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapter X.
+* Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapters 11, 16, 20, 30.
 
 *In class: Coding scheme creation, Team formation*
 
@@ -85,7 +85,7 @@ All materials are available to us for free. Articles and book chapters will be m
 
 * Elizabeth Popp Berman. 2021. *Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy.* Chapter 1: Thinking Like an Economist
 * Adam Kotsko. 2018. *Neoliberalism's Demons: On the Political Theology of Late Capital.* Chapter 1: Introduction.
-* Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapter Y
+* Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapters 32, 40, 67, 76.
 
 *In class: TBD exercise*
 
@@ -121,7 +121,7 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 12/6: In Conclusion
 
 * Neil Gaiman. 1990. "A Dream of a Thousand Cats." *The Sandman.* 
-* Add reading
+* Kim Stanley Robinson. 2020. The Ministry for the Future. Chapter 77.
 
 *In class: Share Policy Communication (draft)*
 *Due: Policy Communication, Tuesday, 12/13*
