@@ -21,8 +21,8 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 9/6: Problem Definitions and Problem Representations
 
 * Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach
-* Daniel Greene. 2021. *The Promise of Access: Technology, Inequality, and the Political Economy of Hope.* Chapter 1.
 * B. Guy Peters. 2018. *Policy Problems and Policy Design.* Elgar. Chapter 2: The Problem of Policy Problems.
+* Daniel Greene. 2021. *The Promise of Access: Technology, Inequality, and the Political Economy of Hope.* Introduction.
 
 *In class: Problem representation exercise*
 *Due: Individual Equity Action Plan coding* 
