@@ -25,6 +25,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Daniel Greene. 2021. *The Promise of Access: Technology, Inequality, and the Political Economy of Hope.* Introduction.
 
 *In class: Problem representation exercise*
+
 *Due: Individual Equity Action Plan coding* 
 
 ## 9/13: Social Constructions and Policy Framing
@@ -45,6 +46,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Julie Nelson and Lisa Brooks. 2016. [Racial Equity Toolkit: An Opportunity to Operationalize Equity.](https://racialequityalliance.org/wp-content/uploads/2015/10/GARE-Racial_Equity_Toolkit.pdf) Government Alliance on Race & Equity.
 
 *In class: Assessment exercise*
+
 *Due: Team Equity Action Plan Analysis, Friday, 9/23*
 
 ## 9/27: Equity Assessment: Evaluation
@@ -79,6 +81,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Michael Howlett, Ishani Mukherjee, and Jun Jie Woo. 2015. "[From Tools to Toolkits in Policy Design Studies: The New Policy Design Orientation Toward Policy Formulation Research.](https://www.sfu.ca/~howlett/documents/s9.pdf)" *Policy & Politics* 43: 291–311.
 
 *In class: Team presentations*
+
 *Due: Policy Assessment Brief, Friday, 10/21*
 
 ## 10/25: Policy Paradigms
@@ -96,6 +99,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “[Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.](https://muse.jhu.edu/issue/706)” *The Good Society* 11(1): 55-60.
 
 *In class: TBD exercise*
+
 *Due: Individual Policy Recommendations pre-brief sketch, Friday, 11/4*
 
 ## 11/8: Election Day
@@ -116,6 +120,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Fung, Archon, Hollie Russon Gilman, and Mark Schmitt. 2022. “[Strengthening Models of Civic Engagement: Community-Informed Approaches to Inclusive and Equitable Decision-Making.](https://ash.harvard.edu/publications/strengthening-models-civic-engagement-community-informed-approaches-inclusive-and)” New America and Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
 
 *In class: Team presentations*
+
 *Due: Policy Recommendation Brief, Friday, 12/2*
 
 ## 12/6: In Conclusion
@@ -124,6 +129,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Kim Stanley Robinson. 2020. The Ministry for the Future. Chapter 77.
 
 *In class: Share Policy Communication (draft)*
+
 *Due: Policy Communication, Tuesday, 12/13*
 
 <p class="aligncenter">
