@@ -16,7 +16,7 @@ All materials are available to us for free. Articles and book chapters will be m
 * Melissa Leach, Belinda Reyers, Xuemei Bai, Eduardo S. Brondizio, Christina Cook, Sandra Díaz, Giovana Espindola, Michelle Scobie, Mark Stafford-Smith and Suneetha M Subramanian. 2018. “[Equity and Sustainability in the Anthropocene: A Social–Ecological Systems Perspective on Their Intertwined Futures.](https://www.cambridge.org/core/journals/global-sustainability/article/equity-and-sustainability-in-the-anthropocene-a-socialecological-systems-perspective-on-their-intertwined-futures/F6DCBE05CA3F6820A10C0DF193BB29E7)” *Global Sustainability* 1: 1-13.
 * Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapters 11, 16, 20, 30.
 
-*In class: Coding scheme creation, Team formation*
+*In class: Coding scheme creation, Initial team formation*
 
 ## 9/6: Problem Definitions and Problem Representations
 

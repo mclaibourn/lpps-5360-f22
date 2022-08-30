@@ -31,7 +31,7 @@ This set of assignments is directed at supporting both individual and collective
 
 To facilitate understanding and discussion we’ll all contribute to collaborative annotation and commenting on the reading using Perusall by noon Tuesday. I will review these ahead of class to help organize our discussion. 
 
-We have reading assigned on eleven out of fourteen weeks (excluding week 1). Contributing annotations to readings for at least **eight** weeks is necessary for full credit. Make at least four full contributions for a given week’s reading.
+We have reading assigned on eleven out of fourteen weeks (excluding week 1). Contributing annotations to readings for at least **eight** weeks is necessary for full credit. Make at least four full contributions for a given week’s reading. Reading annotations should be submitted by 2pm on the day of class.
 
 A full contribution will go beyond agreeing with a point or asking a question. It will engage a point, connect it to other ideas we might learn from, amend it to suggest a more limited or wider scope, note conditions under which it is more or less relevant, ponder how it might inform your project or other work of which you are aware, ask a question and provide an initial answer. If others have already commented on a passage and you want to address and elaborate on the initial comment (beyond basic agreement), you should. Think about the kinds of things you might raise in a discussion and bring them up in the annotations. 
 
@@ -53,7 +53,7 @@ In the first project, we’ll explore what “equity” means to the federal gov
 
 * Tuesday, 8/30: Coding scheme developed in class, teams defined
 * (5%) Tuesday, 9/6: Individuals submit initial completed coding for two documents (these will overlap within a team so that each document is reviewed and coded by two members)
-* (20%) Tuesday, 9/20 (or Friday, 9/23): Teams submit completed coding for their subset of documents and narrative write up (~3 single-spaced pages) 
+* (20%) Friday, 9/23: Teams submit completed coding for their subset of documents and narrative write up (~3 single-spaced pages) 
 
 #### Policy Assessment Brief (20%)
 
@@ -62,7 +62,7 @@ The policy assessment assignment will in the form of a 4-6 page single-spaced wr
 * (5%) Friday, 9/30: Individuals submit individual pre-brief sketch of the policy landscape for your team’s chosen policy focus, including a brief description of the problem and policy status quo in your selected context (~ 1-2 single-spaced pages). You’ll share your individual pre-brief sketches with one another to learn from one another and negotiate a focus.
 * Tuesday, 10/11: Team peer feedback
 * Tuesday, 10/18: Presentation
-* (5%) Friday, 10/21: Teams submit completed brief (~ 4-6 single-spaced pages)
+* (15%) Friday, 10/21: Teams submit completed brief (~ 4-6 single-spaced pages)
 
 #### Policy Recommendation Presentation (15%)
 
@@ -80,7 +80,7 @@ The presentation should end with a recommendation for one of the alternatives (o
 Present an abbreviated version of the key information in your policy assessment and/or recommendation briefs in a creative way, something aimed at informing a broader public or impacted populations. This could take any form – a short (less than 5 minutes) podcast, a cartoon explainer, a brief video, a tweet thread with gifs, an infographic, something else (e.g., material appropriate for other social media forms). Any format you think could be useful for public communication and education! You may choose to emphasize problems or solutions; it could be advocating for something or purely informational. The key is to make it legible to a wider audience to promote public engagement in the policy arena. 
 
 * Tuesday, 12/6: Draft presentation
-* Tuesday, 12/13: Teams submit final piece
+* (5%) Tuesday, 12/13: Teams submit final piece
 
 <p class="aligncenter">
     <img src="https://region2phtc.org/wp-content/uploads/2019/02/blogimage-large34.jpg" alt="equity-equality" width="200"/>
