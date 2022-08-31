@@ -21,7 +21,7 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 9/6: Problem Definitions and Problem Representations
 
 * Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach
-* B. Guy Peters. 2018. *Policy Problems and Policy Design.* Elgar. Chapter 2: The Problem of Policy Problems.
+* W.E.B. DuBois. 1897. [“The Strivings of the Negro People.”](https://www.theatlantic.com/magazine/archive/1897/08/strivings-of-the-negro-people/305446/) *The Atlantic.*
 * Daniel Greene. 2021. *The Promise of Access: Technology, Inequality, and the Political Economy of Hope.* Introduction.
 
 *In class: Problem representation exercise*
