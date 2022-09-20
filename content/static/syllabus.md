@@ -55,32 +55,22 @@ In the first project, we’ll explore what “equity” means to the federal gov
 * (5%) Tuesday, 9/6: Individuals submit initial completed coding for two documents (these will overlap within a team so that each document is reviewed and coded by two members)
 * (20%) Friday, 9/23: Teams submit completed coding for their subset of documents and narrative write up (~3 single-spaced pages) 
 
-#### Policy Assessment Brief (20%)
+#### Policy Assessment Brief (25%)
 
-The policy assessment assignment will in the form of a 4-6 page single-spaced written brief. You’ll (a) identify the problem, people, and place of your policy focus, including a description of the problem and the policy status quo in your selected context (what are the current policies, current outcomes, ongoing challenges, and possibly additional problems created by the current policy). Following a description of the problem and context, you’ll (b) provide an equity assessment of the current state; this should include a description of how the policy or challenges vary across sub-populations and an evaluation of the problem representation in current policy (think Bacchi’s work) and how this might contribute to or hinder equity. 
+The policy assessment assignment will in the form of a 4-6 page single-spaced written brief. You’ll (a) identify the problem, people, and place of your policy focus, including a description of the problem and the policy status quo in your selected context (what are the current policies, current outcomes, ongoing challenges, and possibly additional problems created by the current policy). Following a description of the problem and context, you’ll (b) provide an equity assessment of the current state; this should include a description of how the policy or challenges vary across sub-populations and an evaluation of the problem representation in current policy (think Bacchi’s work) and how this might contribute to or hinder equity. It will end by pointing to a policy proposal you recommend for further investigation.
 
-* (5%) Friday, 9/30: Individuals submit individual pre-brief sketch of the policy landscape for your team’s chosen policy focus, including a brief description of the problem and policy status quo in your selected context (~ 1-2 single-spaced pages). You’ll share your individual pre-brief sketches with one another to learn from one another and negotiate a focus.
-* Tuesday, 10/11: Team peer feedback
-* Tuesday, 10/18: Presentation
-* (15%) Friday, 10/21: Teams submit completed brief (~ 4-6 single-spaced pages)
+* (5%) Friday, 10/7: Individuals submit individual pre-brief sketch of the policy landscape for your team’s chosen policy focus, including a brief description of the problem and policy status quo in your selected context (~ 1-2 single-spaced pages). You’ll share your individual pre-brief sketches with one another to learn from one another and negotiate a focus.
+* Tuesday, 10/18: Team peer feedback
+* Tuesday, 11/1: Presentation
+* (20%) Friday, 11/11: Teams submit completed brief (~ 4-6 single-spaced pages)
 
-#### Policy Recommendation Presentation (15%)
+#### Policy Communication (15%)
 
-The policy recommendation presentation will be in the form of a slide deck and accompanying oral presentation. You should briefly restate the problem you’re addressing and how the target populations are impacted. Then you’ll (a) describe two policy changes or alternatives to improve conditions for your focal population. For each change or intervention, explain how it improves the status quo as detailed in the policy assessment brief. Who is most benefited by the proposed alternative? Does it address the cause of the problem or seek to mitigate challenges? What’s the chain that leads from policy change to improvement for people? And how does it alter the equity assessment for the policy area you’re working on? 
+Present an abbreviated version of the key information in your policy assessment brief in a creative way, something aimed at informing a broader public or impacted populations. This could take any form – a short (less than 5 minutes) podcast, a cartoon explainer, a brief video, a tweet thread with gifs, an infographic, something else (e.g., material appropriate for other social media forms). Any format you think could be useful for public communication and education! You may choose to emphasize problems or solutions; it could be advocating for something or purely informational. The key is to make it legible to a wider audience to promote public engagement in the policy arena. 
 
-The presentation should end with a recommendation for one of the alternatives (or status quo). (b) For the chosen policy change, explain why you selected it and provide implementation suggestions or guidelines. Who should be designing and executing the policy to ensure a positive experience for focal populations? How might administrative burdens be reduced?
- 
-* (5%) Friday, 11/4: Individuals submit pre-presentation sketch of one policy alternative to respond to the challenges your team is researching, including an initial description as outlined in part (a) above (~ 1-2 single-spaced pages). You’ll share your individual pre-presntation sketches with one another to learn from one another and negotiate a final set of alternatives that you’ll expand on together.
-* Tuesday, 11/5: Team peer feedback
-* Tuesday, 11/29: In-class presentation
-* (10%) Friday, 12/2: Teams submit final presentation slides
-
-#### Policy Communication (5%)
-
-Present an abbreviated version of the key information in your policy assessment and/or recommendation briefs in a creative way, something aimed at informing a broader public or impacted populations. This could take any form – a short (less than 5 minutes) podcast, a cartoon explainer, a brief video, a tweet thread with gifs, an infographic, something else (e.g., material appropriate for other social media forms). Any format you think could be useful for public communication and education! You may choose to emphasize problems or solutions; it could be advocating for something or purely informational. The key is to make it legible to a wider audience to promote public engagement in the policy arena. 
-
+* (5%) Tuesday, 11/22: Individuals submit an example of a useful policy communication piece with a paragraph or two explaining what elements you think make this especially impactful.
 * Tuesday, 12/6: Draft presentation
-* (5%) Tuesday, 12/13: Teams submit final piece
+* (10%) Tuesday, 12/13: Teams submit final piece
 
 <p class="aligncenter">
     <img src="https://region2phtc.org/wp-content/uploads/2019/02/blogimage-large34.jpg" alt="equity-equality" width="200"/>
