@@ -57,11 +57,11 @@ In the first project, we’ll explore what “equity” means to the federal gov
 
 #### Policy Assessment Brief (25%)
 
-The policy assessment assignment will in the form of a 4-6 page single-spaced written brief. You’ll (a) identify the problem, people, and place of your policy focus, including a description of the problem and the policy status quo in your selected context (what are the current policies, current outcomes, ongoing challenges, and possibly additional problems created by the current policy). Following a description of the problem and context, you’ll (b) provide an equity assessment of the current state; this should include a description of how the policy or challenges vary across sub-populations and an evaluation of the problem representation in current policy (think Bacchi’s work) and how this might contribute to or hinder equity. It will end by pointing to a policy proposal you recommend for further investigation.
+The policy assessment assignment will in the form of a 4-6 page single-spaced written brief. You’ll (a) identify the problem, people, and place of your policy focus, including a description of the problem, who is experiencing the problem, and the policy status quo in your selected context (what are the central prior policies that shape the current outcomes; how were these outcomes created). Following a description of the problem, people, and policy context, you’ll (b) provide an equity assessment of the current state; this should include a description of how the policy or challenges vary across populations, an evaluation of the problem representations or the social constructions in current policy (the reading from the weeks of 9/6 and 9/13) and how this might contribute to or hinder equity, and addressing some selected dimensions or questions around equity assessment, measurement, and evaluation (the reading from the weeks of 9/20, 9/27). It will end by (c) pointing to a policy proposal you recommend for further investigation.
 
-* (5%) Friday, 10/7: Individuals submit individual pre-brief sketch of the policy landscape for your team’s chosen policy focus, including a brief description of the problem and policy status quo in your selected context (~ 1-2 single-spaced pages). You’ll share your individual pre-brief sketches with one another to learn from one another and negotiate a focus.
-* Tuesday, 10/18: Team peer feedback
-* Tuesday, 11/1: Presentation
+* (5%) Friday, 10/7: Individuals submit individual pre-brief sketch of the policy landscape for your team’s chosen policy focus, including a brief description of the problem, who is experiencing the problem, and a prior policy that is shaping these outcomes (~ 1-2 single-spaced pages). You’ll share your individual pre-brief sketches with one another to learn from one another and further negotiate a focus and jumpstart the policy brief.
+* Tuesday, 10/18: In-class peer feedback
+* Tuesday, 11/1: In-class presentation
 * (20%) Friday, 11/11: Teams submit completed brief (~ 4-6 single-spaced pages)
 
 #### Policy Communication (15%)
@@ -69,7 +69,7 @@ The policy assessment assignment will in the form of a 4-6 page single-spaced wr
 Present an abbreviated version of the key information in your policy assessment brief in a creative way, something aimed at informing a broader public or impacted populations. This could take any form – a short (less than 5 minutes) podcast, a cartoon explainer, a brief video, a tweet thread with gifs, an infographic, something else (e.g., material appropriate for other social media forms). Any format you think could be useful for public communication and education! You may choose to emphasize problems or solutions; it could be advocating for something or purely informational. The key is to make it legible to a wider audience to promote public engagement in the policy arena. 
 
 * (5%) Tuesday, 11/22: Individuals submit an example of a useful policy communication piece with a paragraph or two explaining what elements you think make this especially impactful.
-* Tuesday, 12/6: Draft presentation
+* Tuesday, 12/6: In-class draft presentation
 * (10%) Tuesday, 12/13: Teams submit final piece
 
 <p class="aligncenter">
