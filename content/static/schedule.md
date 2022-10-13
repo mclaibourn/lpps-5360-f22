@@ -89,7 +89,7 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 10/25: Policy Paradigms
 
 * Elizabeth Popp Berman. 2021. *Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy.* Chapter 1: Thinking Like an Economist
-* Adam Kotsko. 2018. *Neoliberalism's Demons: On the Political Theology of Late Capital.* Chapter 1: Introduction.
+* Lydia DePillis. 2022. ["Pace of Climate Change Sends Economists Back to Drawing Board."](https://www.nytimes.com/2022/08/25/business/economy/economy-climate-change.html) The New York Times, August 25, 2022.
 * Kim Stanley Robinson. 2020. *The Ministry for the Future.* Chapters 32, 40, 67, 76.
 
 *In class: TBD exercise*
