@@ -110,7 +110,6 @@ All materials are available to us for free. Articles and book chapters will be m
 ## 11/15: Policy Process and Participation
 
 * Michael Parenti. 1970. “[Power and Pluralism: A View from the Bottom.](https://www.journals.uchicago.edu/doi/10.2307/2128829)” *The Journal of Politics* 32(3):501-530.
-* Tony Bovaird. 2007. “[Beyond Engagement and Participation: User and Community Coproduction of Public Services.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6210.2007.00773.x)” *Public Administration Review* 67(5): 846-860.
 * Archon Fung. 2002. “[Creating Deliberative Publics: Governance After Devolution and Democratic Centralism.](https://muse.jhu.edu/issue/706)” *The Good Society* 11(1): 66-71.
 
 *In class: TBD exercise*
