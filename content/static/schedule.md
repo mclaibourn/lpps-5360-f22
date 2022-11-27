@@ -109,31 +109,30 @@ All materials are available to us for free. Articles and book chapters will be m
 
 ## 11/15: Policy Process and Participation
 
+Cancelled
+
 * Michael Parenti. 1970. “[Power and Pluralism: A View from the Bottom.](https://www.journals.uchicago.edu/doi/10.2307/2128829)” *The Journal of Politics* 32(3):501-530.
 * Archon Fung. 2002. “[Creating Deliberative Publics: Governance After Devolution and Democratic Centralism.](https://muse.jhu.edu/issue/706)” *The Good Society* 11(1): 66-71.
 
-*In class: TBD exercise*
 
 ## 11/22: Group work day
 
-*Due: Communication ideas/examples due, Tuesday, 11/22*
 
 ## 11/29: Policy Communication and Accountability
 
+* Michael Parenti. 1970. “[Power and Pluralism: A View from the Bottom.](https://www.journals.uchicago.edu/doi/10.2307/2128829)” *The Journal of Politics* 32(3):501-530.
 * Jerusalem Demsas. 2022. “[Community Input is Bad, Actually.](https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/)” *The Atlantic.*  
-* Fung, Archon, Hollie Russon Gilman, and Mark Schmitt. 2022. “[Strengthening Models of Civic Engagement: Community-Informed Approaches to Inclusive and Equitable Decision-Making.](https://ash.harvard.edu/publications/strengthening-models-civic-engagement-community-informed-approaches-inclusive-and)” New America and Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
 
-*In class: TBD exercise*
 
 ## 12/6: In Conclusion
 
+* Fung, Archon, Hollie Russon Gilman, and Mark Schmitt. 2022. “[Strengthening Models of Civic Engagement: Community-Informed Approaches to Inclusive and Equitable Decision-Making.](https://ash.harvard.edu/publications/strengthening-models-civic-engagement-community-informed-approaches-inclusive-and)” New America and Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
 * Neil Gaiman. 1990. "A Dream of a Thousand Cats." *The Sandman.* 
-* Kim Stanley Robinson. 2020. The Ministry for the Future. Chapter 77.
+* Franny Choi. 2018. ["Introduction to Quantum Theory; a Brief but Spectacular take on Imagining Alternate Realities."](https://www.pbs.org/newshour/brief/286139/franny-choi) *PBS NewsHour, Brief but Spectacular.*
 
-*In class: Policy Communication presentation (draft)*
 
-*Due: Policy Communication, Tuesday, 12/13*
+*Due: Policy Communication Example, Tuesday, 12/13*
 
 <p class="aligncenter">
-<img src="https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif" width="300">
+<img src="https://shortquotes.cc/wp-content/uploads/2020/11/4d979c7e3ec23b24b30fb63853d6585c-1-290x150.jpg" width="300">
 </p>
