@@ -131,7 +131,7 @@ Cancelled
 * Franny Choi. 2018. ["Introduction to Quantum Theory; a Brief but Spectacular take on Imagining Alternate Realities."](https://www.pbs.org/newshour/brief/286139/franny-choi) *PBS NewsHour, Brief but Spectacular.*
 
 
-*Due: Policy Communication Example, Tuesday, 12/13*
+*Due: Policy Communication Example, Tuesday, 12/6*
 
 <p class="aligncenter">
 <img src="https://shortquotes.cc/wp-content/uploads/2020/11/4d979c7e3ec23b24b30fb63853d6585c-1-290x150.jpg" width="300">

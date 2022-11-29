@@ -25,7 +25,7 @@ A few of our learning goals:
 
 ### Contributions to Material/Class (35%)
 
-This set of assignments is directed at supporting both individual and collective understanding of the reading in a way that prepares everyone to contribute to the team projects.
+This set of assignments is directed at supporting both individual and collective understanding of the reading in a way that prepares everyone to contribute to the team projects. Due by Tuesday, 12/13.
 
 #### Reading annotations (16%)
 
@@ -71,6 +71,10 @@ Present an abbreviated version of the key information in your policy assessment 
 * (5%) Tuesday, 11/22: Individuals submit an example of a useful policy communication piece with a paragraph or two explaining what elements you think make this especially impactful.
 * Tuesday, 12/6: In-class draft presentation
 * (10%) Tuesday, 12/13: Teams submit final piece
+
+REVISED
+
+* (5%) Tuesday, 12/6: Individuals submit an example of a useful policy communication piece with a paragraph or two explaining what elements you think make this especially impactful.
 
 <p class="aligncenter">
     <img src="https://region2phtc.org/wp-content/uploads/2019/02/blogimage-large34.jpg" alt="equity-equality" width="200"/>
